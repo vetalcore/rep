@@ -1,3 +1,3 @@
 exports.world = function(){
-	console.log('word');
+	console.log('LOLO word');
 }
