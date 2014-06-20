@@ -1,3 +1,3 @@
 exports.world = function(){
-	console.log('worddd');
+	console.log('new');
 }
